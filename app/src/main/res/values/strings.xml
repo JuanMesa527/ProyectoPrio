@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoPrio</string>
+    <string name="sign_in_message">Sign in with Google</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="default_web_client_id">274388627312-vp26j7ahufugjev5v6voi49knjcptkqr.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274388627312",
+    "project_id": "proyectoprio-c3fce",
+    "storage_bucket": "proyectoprio-c3fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274388627312:android:5641937a17ca3004ec69b5",
+        "android_client_info": {
+          "package_name": "unipiloto.edu.co.proyectoprio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDg-jbZJ8alk1jRFMgJ0gywSV0v1Tbr48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
